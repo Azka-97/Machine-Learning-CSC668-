@@ -181,7 +181,7 @@ print(df)
 
 #Question-4.6
 print("\nQuestion-4.6")
-df = pd.read_csv(r'E:\FA24-MS\machine learning\fa24-rcs-002_assignment1\hello_sample.csv')
+df = pd.read_csv(r'hello_sample.csv')
 
 # Question-4.7
 print("\nQuestion-4.7")
